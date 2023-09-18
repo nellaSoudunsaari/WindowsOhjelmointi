@@ -1,0 +1,4 @@
+C:\Users\Koulu\Documents\Windows sovellukset\MessageBox\obj\Debug\MessageBox.H6RichTextbox.resources
+C:\Users\Koulu\Documents\Windows sovellukset\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\MessageBox\obj\Debug\Harkka1.5.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\MessageBox\obj\Debug\Harkka1.5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H13\bin\Debug\H13.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H13\bin\Debug\H13.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H13\bin\Debug\H13.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.H13ImageList.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H13\obj\Debug\H13.pdb

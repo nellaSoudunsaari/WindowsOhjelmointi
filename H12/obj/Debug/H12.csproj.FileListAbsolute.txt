@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H12\bin\Debug\H12.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H12\bin\Debug\H12.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H12\bin\Debug\H12.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.H12Imagelist.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H12\obj\Debug\H12.pdb

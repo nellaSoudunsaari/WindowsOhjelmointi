@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H4\bin\Debug\H4.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H4\bin\Debug\H4.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H4\bin\Debug\H4.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.H4Label.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H4\obj\Debug\H4.pdb

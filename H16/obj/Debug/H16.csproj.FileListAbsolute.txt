@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H16\bin\Debug\H16.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H16\bin\Debug\H16.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H16\bin\Debug\H16.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.H16Ikalaskin.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H16\obj\Debug\H16.pdb

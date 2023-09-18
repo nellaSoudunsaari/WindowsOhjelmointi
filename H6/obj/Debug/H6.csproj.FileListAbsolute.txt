@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H6\bin\Debug\H6.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H6\bin\Debug\H6.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H6\bin\Debug\H6.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H6\obj\Debug\H6.Form1.resources

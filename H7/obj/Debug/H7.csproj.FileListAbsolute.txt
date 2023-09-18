@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H7\bin\Debug\H7.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H7\bin\Debug\H7.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H7\bin\Debug\H7.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.Harkka7Checkbox.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H7\obj\Debug\H7.pdb

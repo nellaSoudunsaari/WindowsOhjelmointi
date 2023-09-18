@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H14\bin\Debug\H14.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H14\bin\Debug\H14.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H14\bin\Debug\H14.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.H14Linkki.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H14\obj\Debug\H14.pdb

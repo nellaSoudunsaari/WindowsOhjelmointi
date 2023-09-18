@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H8\bin\Debug\H8.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H8\bin\Debug\H8.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H8\bin\Debug\H8.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.H8Radiobtn.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H8\obj\Debug\H8.pdb

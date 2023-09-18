@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H5\bin\Debug\H5.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H5\bin\Debug\H5.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H5\bin\Debug\H5.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.H5MaskedTextbox.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H5\obj\Debug\H5.pdb

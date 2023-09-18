@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H9\bin\Debug\H9.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H9\bin\Debug\H9.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H9\bin\Debug\H9.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.H9Listbox.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H9\obj\Debug\H9.pdb

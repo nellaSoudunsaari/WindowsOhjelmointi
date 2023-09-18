@@ -1,0 +1,10 @@
+C:\Users\Koulu\Documents\Windows sovellukset\H2\bin\Debug\H2.exe.config
+C:\Users\Koulu\Documents\Windows sovellukset\H2\bin\Debug\H2.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H2\bin\Debug\H2.pdb
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.csproj.AssemblyReference.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.H2Nappi.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.Properties.Resources.resources
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.csproj.GenerateResource.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.csproj.CoreCompileInputs.cache
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.exe
+C:\Users\Koulu\Documents\Windows sovellukset\H2\obj\Debug\H2.pdb
